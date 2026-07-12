@@ -1,86 +1,54 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-
-<!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/>
-</p> -->
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!+I'm+Aldi+:3;Welcome+To+My+Profile!" alt="Title">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=40&center=true&vCenter=true&height=60&width=600&lines=Hello!+I'm+Aldi+:3;Welcome+To+My+Profile!" alt="Title">
   </a>
+</div>
+
+<div align="center">
+
+# La Ode Muhammad Aldyansyah Ombi
+
+**Cybersecurity Enthusiast | Blockchain Developer | Cloud & AI Explorer**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aldyansyahombi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aldyansyahombi@gmail.com)
+
 </div>
 
 ---
 
+## 👋 Tentang Saya
 
-<h2 align="left">
-  Hello Guyss
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+Saya seorang mahasiswa Ilmu Komputer dengan minat besar di bidang **Cybersecurity**, **Blockchain**, **Cloud Computing**, dan **Artificial Intelligence**. Saya senang mempelajari bagaimana teknologi-teknologi ini dapat dipadukan untuk membangun sistem yang aman, transparan, dan cerdas, mulai dari verifikasi data berbasis blockchain hingga penerapan AI dalam otomatisasi dan analisis keamanan.
 
-Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahombi/)**, dengan minat kuat pada teknologi terutama pada penetration testing dan cyber defense (SoC Analyst), tujuan saya untuk melindungi aset digital dari serangan orang yang tidak bertanggung jawab dan menciptakan internet yang aman untuk semua kalangan. Selain itu, saya juga memiliki minat di dunia Computer Networking, Backend Developer dan Artificial Intelligence. 
-<details>
-  <summary><b>📋Lainnya tentang saya</b></summary>
-  
-  ### 👤 Tentang Saya
-  - **Nama:** La Ode Muhammad Aldyansyah Ombi
-  - **Lokasi:** Raha, Sulawesi Tenggara
-  - **Roles:** Cyber Security
-  
-  ### 📚 Sedang Belajar
-  - Belajar tentang Keamanan Siber (Cyber Security)
-  - Jaringan Komputer
-  - Backend Developer
-  - Artificial Intelligence
-  - Python Programming
-  
-  ### 📫 Contact
-  - **Email:** aldyansyahombi@gmail.com
-  - **Instagram:** [@aldyansyahombi](https://www.instagram.com/aldyansyahombi/)
-</details>
-
-<br>
+- 📍 Raha, Sulawesi Tenggara
+- 🎓 Mahasiswa Ilmu Komputer, Universitas Halu Oleo
+- 🌱 Terus belajar dan membangun proyek di bidang keamanan siber, teknologi blockchain, dan sistem cerdas
 
 ---
 
-<h2 id="present_status">📊 Present Status</h2>
+## 💡 Fokus Utama
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+| Bidang | Deskripsi Singkat |
+|---|---|
+| 🔐 **Cybersecurity** | Keamanan jaringan, analisis kerentanan, dan praktik pertahanan siber |
+| ⛓️ **Blockchain** | Sistem verifikasi dan pencatatan data terdesentralisasi |
+| ☁️ **Cloud Computing** | Arsitektur dan deployment layanan berbasis cloud |
+| 🤖 **Artificial Intelligence** | Penerapan AI/ML untuk otomatisasi dan analisis data |
 
-### 🎯 Current Focus
-- **Penetration Testing**   
-- **Computer Networking**     
-- **Cyber Defense**
-- **Python Programming**
-- **Backend Developer**
 ---
 
+## 🛠️ Tech Stack
 
-<h2 id="knowledge_skills">🛠️ Knowledge & Skill</h2>
+<div align="center">
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    
-  ### 🔐 Security Tools
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-11375B?style=for-the-badge&logo=nmap&logoColor=white" />
-  
-  
-  ### 💻 Programming Languages
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  
-  ### 🐧 Operating Systems
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  
-  ### 🔧 Framework & API
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  </div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 </div>
 
 ---
@@ -109,17 +77,18 @@ Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahomb
 
 <br>
 
+---
+
 <div align="center">
-  <h1 align="center"><img width="40px" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/fogoAzul.gif"><strong><em>"Jangan Menyerah, Tetap Semangat."</em></strong></h1>
-  <p>Keamanan sistem bukan dibangun oleh keberanian, tetapi oleh ketelitian dan disiplin.</p>
+
+*"Salah satu tanda sejati dari orang yang berilmu bukanlah banyaknya pengetahuan, melainkan kerendahan hati yang selalu menyertainya"*
+
+📫 **Let's connect:** [aldyansyahombi@gmail.com](mailto:aldyansyahombi@gmail.com)
+
 </div>
 
----
+<br>
 
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
-
-<div align="center">
-
-</div>
