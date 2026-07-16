@@ -62,12 +62,12 @@ Saya seorang mahasiswa Ilmu Komputer dengan minat besar di bidang **Cybersecurit
   <tr>
     <td>
       <a href="https://github.com/zegherb">
-        <img src="https://github-readme-stats.vercel.app/api?username=zegherb&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=aldyansyahombi&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/zegherb">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zegherb&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" height="165"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldyansyahombi&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" height="165"/>
       </a>
     </td>
   </tr>
