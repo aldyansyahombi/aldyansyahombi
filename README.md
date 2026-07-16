@@ -61,7 +61,7 @@ Saya seorang mahasiswa Ilmu Komputer dengan minat besar di bidang **Cybersecurit
 <table>
   <tr>
     <td>
-      <a href="https://github.com/zegherb">
+      <a href="https://github.com/aldyansyahombi">
         <img src="https://github-readme-stats.vercel.app/api?username=aldyansyahombi&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165"/>
       </a>
     </td>
