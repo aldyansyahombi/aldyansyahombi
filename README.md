@@ -17,24 +17,24 @@
 
 ---
 
-## 👋 Tentang Saya
+## 👋 About Me
 
-Saya seorang mahasiswa Ilmu Komputer dengan minat besar di bidang **Cybersecurity**, **Blockchain**, **Cloud Computing**, dan **Artificial Intelligence**. Saya senang mempelajari bagaimana teknologi-teknologi ini dapat dipadukan untuk membangun sistem yang aman, transparan, dan cerdas, mulai dari verifikasi data berbasis blockchain hingga penerapan AI dalam otomatisasi dan analisis keamanan.
+I'm a Computer Science student with a strong interest in **Cybersecurity**, **Blockchain**, **Cloud Computing**, and **Artificial Intelligence**. I enjoy learning how these technologies can be combined to build systems that are secure, transparent, and intelligent — from blockchain-based data verification to the application of AI in automation and security analysis.
 
-- 📍 Raha, Sulawesi Tenggara
-- 🎓 Mahasiswa Ilmu Komputer, Universitas Halu Oleo
-- 🌱 Terus belajar dan membangun proyek di bidang keamanan siber, teknologi blockchain, dan sistem cerdas
+- 📍 Raha, Southeast Sulawesi
+- 🎓 Computer Science Student, Universitas Halu Oleo
+- 🌱 Continuously learning and building projects in cybersecurity, blockchain technology, and intelligent systems
 
 ---
 
-## 💡 Fokus Utama
+## 💡 Main Focus
 
-| Bidang | Deskripsi Singkat |
+| Field | Brief Description |
 |---|---|
-| 🔐 **Cybersecurity** | Keamanan jaringan, analisis kerentanan, dan praktik pertahanan siber |
-| ⛓️ **Blockchain** | Sistem verifikasi dan pencatatan data terdesentralisasi |
-| ☁️ **Cloud Computing** | Arsitektur dan deployment layanan berbasis cloud |
-| 🤖 **Artificial Intelligence** | Penerapan AI/ML untuk otomatisasi dan analisis data |
+| 🔐 **Cybersecurity** | Network security, vulnerability analysis, and cyber defense practices |
+| ⛓️ **Blockchain** | Decentralized data verification and recording systems |
+| ☁️ **Cloud Computing** | Cloud-based service architecture and deployment |
+| 🤖 **Artificial Intelligence** | Applying AI/ML for automation and data analysis |
 
 ---
 
@@ -58,6 +58,7 @@ Saya seorang mahasiswa Ilmu Komputer dengan minat besar di bidang **Cybersecurit
 <div align="center">
 
 ### 🏆 GitHub Overview
+
 <table>
   <tr>
     <td>
@@ -66,7 +67,7 @@ Saya seorang mahasiswa Ilmu Komputer dengan minat besar di bidang **Cybersecurit
       </a>
     </td>
     <td>
-      <a href="https://github.com/zegherb">
+      <a href="https://github.com/aldyansyahombi">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldyansyahombi&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" height="165"/>
       </a>
     </td>
@@ -81,7 +82,7 @@ Saya seorang mahasiswa Ilmu Komputer dengan minat besar di bidang **Cybersecurit
 
 <div align="center">
 
-*"Salah satu tanda sejati dari orang yang berilmu bukanlah banyaknya pengetahuan, melainkan kerendahan hati yang selalu menyertainya"*
+*"One true sign of a knowledgeable person is not the abundance of their knowledge, but the humility that always accompanies it"*
 
 📫 **Let's connect:** [aldyansyahombi@gmail.com](mailto:aldyansyahombi@gmail.com)
 
